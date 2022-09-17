@@ -8,6 +8,6 @@ Ola! Sou o Adriano Reis
 <div>
   <a href="https://github.com/Drireis">
   <img height="180em" src="https://github-stats.vercel.app/api?username=Drireis&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-stats.vercel.app/api/top-langs/?username=Drireis&layout=compact&langs_count=16&teme=dark"/>
+  <img height="180em" src="https://github-stats.vercel.app/api?username=Drireisa&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 </div>  
 
