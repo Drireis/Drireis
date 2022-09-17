@@ -1,16 +1,13 @@
-### Hi there 👋
+Ola! Sou o Adriano Reis
 
-<!--
-**Drireis/Drireis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🏫 Estudando Engenharia de software(IESB) e Programação Back-End(Senai)
+- 🌱 Estudando Java, C#, Python, Html5-CSS3-Javascript.
+- 📫 Contate-me pelo e-mail dryreis05@gmail.com
+- 😄 Pronouns: ele/dele
 - ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/Drireis">
+  <img height="180em" src="https://github-stats.vercel.app/api?username=Drireis&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats.vercel.app/api/top-langs/?username=Drireis&layout=compact&langs_count=16&teme=dark"/>
+</div>  
+
