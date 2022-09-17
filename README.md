@@ -6,7 +6,7 @@ Ola! Sou o Adriano Reis
 - 😄 Pronouns: ele/dele
 <div>
   <a href="https://github.com/Drireis">
-  <img height="180em" src="https://github-stats.vercel.app/api?username=Drireis&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-stats.vercel.app/api/top-langs/?username=Drireisa&layout=compact&langs_count=16&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" widhit="300em" src="https://github-stats.vercel.app/api?username=Drireis&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" widhit="300em" src="https://github-stats.vercel.app/api/top-langs/?username=Drireis&layout=compact&langs_count=16&theme=radical"/>
 </div>  
 
