@@ -1,6 +1,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/103850682/192527742-94ef5ade-0850-4a7b-9e29-5e1a01301c84.png">
 
-# Hi dear, I'm Adriano Reis 
+# Hi, I'm Adriano Reis 
 
 - Software engineering student(IESB)
 - Student Back-End Programming(Senai)
