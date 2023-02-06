@@ -7,13 +7,11 @@
 
 ## Techs
 
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=C%23)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=JS)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=PY)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C#](https://img.shields.io/badge/C%23-VS2022-blue)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=157286)&nbsp;
 ![.Net](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.NET)&nbsp;
+![.Net](https://img.shields.io/badge/.NET-MAUI-blue)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
